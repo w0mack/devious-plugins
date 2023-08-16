@@ -10,7 +10,7 @@ public enum Tree
 {
 	REGULAR(1, "Tree"),
 	OAK(15, "Oak"),
-	WILLOW(30, "Willow");
+	WILLOW(30, "Willow Tree");
 
 	private final int level;
 	private final String name;
